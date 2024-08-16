@@ -1,0 +1,77 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    min-width: 14rem;
+    justify-content: center;
+}
+button{
+    background-color: #3498db;
+    border:0;
+    width:5rem;
+    border-radius: 0.2rem;
+    margin:0.5rem;
+    margin-top:0;
+    padding: 0.2rem;
+    font-weight: bold;
+}
+
+button:hover{
+    background-color: #2980b9;
+    cursor: pointer;
+    font-size: 0.85rem;
+}
+
+input{
+    width: 12.5rem;
+    padding: 0.2rem;
+    margin:0.5rem;
+    border-radius: 0.3rem;
+    border:0;
+    height: 1.2rem;
+    transition: all 0.3 ease;
+    
+}
+
+input:focus{
+    box-shadow: 0 0 8 rgba(74, 144, 226, 0.6);
+    transform: scale(1.05);
+}
+
+
+ul{
+    padding-left: 0.7rem;
+}
+
+.lis{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+
+#deleteBtn{
+    background-color: white;
+    width:6rem;
+    margin-left: 0;
+    border: solid 1px #2980b9;
+}
+
+#deleteBtn:hover{
+    font-size: 0.85rem;
+}
+
+.btncontainer{
+    width: 14rem;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin:0;
+    padding: 0;;
+}
+
+#saveTabBtn{
+    width: 11.6rem;
+    margin-top: 0.1rem;;
+}
