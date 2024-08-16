@@ -16,7 +16,8 @@ The **Lead Tracker Chrome Extension** is a user-friendly browser extension desig
 
 1. **Extension in Action**
 
-   ![Extension in Action](path/to/screenshot1.png)
+   ![image](https://github.com/user-attachments/assets/b6a87ae9-d38e-495e-b316-bb8d75d3c368)
+
 
    *Shows the extension's user interface.*
 
