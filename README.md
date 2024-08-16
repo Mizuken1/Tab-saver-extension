@@ -9,7 +9,7 @@ The **Lead Tracker Chrome Extension** is a user-friendly browser extension desig
 - **Save URLs**: Input and save URLs manually to keep track of important links.
 - **Capture Current Tab**: Instantly save the URL of the currently active tab with a single click.
 - **Persistent Storage**: Uses `localStorage` to ensure that your saved leads are available across browser sessions.
-- **Delete All Leads**: Clear all saved leads with a **double-click** on the "Delete All" button.
+- **Delete All Leads**: Clear all saved leads with a **DOUBLE-CLICK** on the "Delete All" button.
 - **Interactive UI**: A clean, responsive interface with buttons and input fields for easy management of your leads.
 
 ## Screenshots
