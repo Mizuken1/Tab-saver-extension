@@ -15,29 +15,29 @@ The **Lead Tracker Chrome Extension** is a user-friendly browser extension desig
 ## Screenshots
 
 1. **Extension in Action**
-   ![image](https://github.com/user-attachments/assets/3a499d5d-78a5-4b0b-8254-fd6f5006fb40)
+
+   ![Extension in Action](path/to/screenshot1.png)
 
    *Shows the extension's user interface.*
 
-   
+2. **Developer Mode in Chrome**
 
-3. **Developer Mode in Chrome**
-   ![image](https://github.com/user-attachments/assets/e386dfef-733c-40d6-88a2-2c7973cf6cbb)
+   ![Developer Mode](path/to/screenshot2.png)
 
    *Instructions to enable Developer Mode in Chrome extensions.*
 
+3. **Load Unpacked Extension**
 
-   
-
-5. **Load Unpacked Extension**
-   ![image](https://github.com/user-attachments/assets/b3839481-a57e-497b-8539-e33ee9956986)
+   ![Load Unpacked](path/to/screenshot3.png)
 
    *How to load the unpacked extension into Chrome.*
 
 ## Installation
 
-Follow these steps to install and use the Lead Tracker Chrome Extension:
+To install and use the Lead Tracker Chrome Extension, follow these steps:
 
 1. **Clone or Download the Repository**
+
    ```bash
    git clone https://github.com/yourusername/lead-tracker-chrome-extension.git
+
