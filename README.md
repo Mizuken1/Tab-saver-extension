@@ -23,13 +23,15 @@ The **Lead Tracker Chrome Extension** is a user-friendly browser extension desig
 
 2. **Developer Mode in Chrome**
 
-   ![Developer Mode](path/to/screenshot2.png)
+   ![image](https://github.com/user-attachments/assets/dfcc73ed-742c-43c5-be11-472f0754a546)
+
 
    *Instructions to enable Developer Mode in Chrome extensions.*
 
 3. **Load Unpacked Extension**
 
-   ![Load Unpacked](path/to/screenshot3.png)
+   ![image](https://github.com/user-attachments/assets/01f8b940-7353-40a0-95ea-d81bea4243cd)
+
 
    *How to load the unpacked extension into Chrome.*
 
